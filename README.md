@@ -1,5 +1,5 @@
 ## 1. Definição da Área de Domínio do Projeto:
-   O projeto visa desenvolver uma interface de prontuário de pacientes, destinada ao uso pelos médicos durante o atendimento. Esta interface possibilitará uma gestão mais eficiente das informações clínicas dos pacientes, permitindo que os médicos, após a identificação de possíveis sintomas, realize o encaminhamento para áreas especializadas dentro do hospital.
+   O projeto visa desenvolver um sistema hospitalar, destinado ao uso pelos médicos durante o atendimento. Esta interface possibilitará uma gestão mais eficiente das informações clínicas dos pacientes, permitindo que os médicos, após a identificação de possíveis sintomas, realize o encaminhamento para áreas especializadas dentro do hospital.
 
 ## 2. Justificativa da Escolha do Projeto:
    Escolhemos este projeto, pois está relacionado com o nosso tema do TCC que se tratará de implementar novas tecnologias para agilizar o diagnóstico de doenças.
